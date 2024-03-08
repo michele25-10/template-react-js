@@ -7,6 +7,7 @@ Librerie scaricate:
 - react-hooks-global-state: per le variabili globali
 - @material-ui/icons
 - sass
+- react-router-dom
 
 Librerie private:
 
