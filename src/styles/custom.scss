@@ -1,0 +1,9 @@
+//Variabili da modificare per customizzare i colori
+
+$theme-colors: (
+    "primary": tomato,
+    "secondary": teal
+);
+
+/* import bootstrap to set changes */
+@import "../../node_modules/bootstrap/scss/bootstrap";
