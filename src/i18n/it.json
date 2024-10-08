@@ -1,0 +1,5 @@
+{
+    "translation": {
+        "headerTitle": "Questo è il template di react js creato da: {{author}}"
+    }
+}

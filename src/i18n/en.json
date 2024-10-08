@@ -1,0 +1,5 @@
+{
+    "translation": {
+        "headerTitle": "This is the react template created to: {{author}}"
+    }
+}
